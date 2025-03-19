@@ -96,7 +96,7 @@ If the issue persists, check that your Sanity database contains valid image data
 ## 📧 Contact & Support
 For questions or contributions, feel free to reach out via GitHub Issues or email **codespherre.official@gmail.com**.
 <br>
-Our official website [code-spherre.netlify.app](code-spherre.netlify.app)
+Our official website [code-spherre.netlify.app](https://code-spherre.netlify.app/)
 
 Happy Coding! 🚀
 
